@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Culture-specific content -->
+  <RulePackDef>
+    <defName>NamerDeityKTSkaven</defName>
+    <include>
+      <li MayRequire="Ludeon.RimWorld.Ideology">NamerDeityGlobal</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[syl]</li>
+        <li>syl-&gt;Horned Rat</li>
+        <li>syl-&gt;Under-Father</li>
+        <li>syl-&gt;the Lord of the World Below</li>
+        <li>syl-&gt;the Horned Rat</li>
+        <li>syl-&gt;Great Horned Rat</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

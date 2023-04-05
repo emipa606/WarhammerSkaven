@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Shared content -->
+  <RulePackDef>
+    <defName>DeityTypeMakerKTSkavenG</defName>
+    <include>
+      <li>GlobalUtility</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>r_deityType-&gt;[god] of [memeConcept]</li>
+        <li>god-&gt;Master</li>
+        <li>god-&gt;Prince</li>
+        <li>god-&gt;Lord</li>
+        <li>god-&gt;supreme God</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <!-- Culture-specific content -->
+  <RulePackDef>
+    <defName>DeityTypeMakerKTSkaven</defName>
+    <include>
+      <li>DeityTypeMakerKTSkavenG</li>
+    </include>
+  </RulePackDef>
+</Defs>
