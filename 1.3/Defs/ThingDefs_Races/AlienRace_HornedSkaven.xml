@@ -57,7 +57,7 @@
           </li>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.Deathjacks">DeathjacksFaction</li>
+              <li MayRequire="Mlie.WarhammerDeathjacks">DeathjacksFaction</li>
             </factions>
             <goodwill>
               <min>-100</min>
@@ -66,7 +66,7 @@
           </li>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.Fimir">FimirFaction</li>
+              <li MayRequire="Mlie.WarhammerFimir">FimirFaction</li>
             </factions>
             <goodwill>
               <min>-20</min>
@@ -75,7 +75,7 @@
           </li>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.FreeGuild">FGFreeGuildFaction</li>
+              <li MayRequire="Mlie.WarhammerFreeGuild">FGFreeGuildFaction</li>
             </factions>
             <goodwill>
               <min>-100</min>

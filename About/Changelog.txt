@@ -1,4 +1,7 @@
 # Changelog for WarhammerSkaven
 
+1.4.1 - Updated the mayrequire-tags to the continued mod-versions
+
+
 1.4.0 - First publish
 

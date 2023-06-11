@@ -84,3 +84,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1916406002&amp;searchtext
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2958124086]Last updated 2023-06-11

@@ -58,7 +58,7 @@
           </li>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.Deathjacks">DeathjacksFaction</li>
+              <li MayRequire="Mlie.WarhammerDeathjacks">DeathjacksFaction</li>
             </factions>
             <goodwill>
               <min>-100</min>
@@ -67,7 +67,7 @@
           </li>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.Fimir">FimirFaction</li>
+              <li MayRequire="Mlie.WarhammerFimir">FimirFaction</li>
             </factions>
             <goodwill>
               <min>-20</min>
@@ -76,7 +76,7 @@
           </li>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.FreeGuild">FGFreeGuildFaction</li>
+              <li MayRequire="Mlie.WarhammerFreeguild">FGFreeGuildFaction</li>
             </factions>
             <goodwill>
               <min>-100</min>
@@ -558,7 +558,7 @@
       <PainShockThreshold>1.3</PainShockThreshold>
       <ImmunityGainSpeed>2</ImmunityGainSpeed>
       <GlobalLearningFactor>1.5</GlobalLearningFactor>
-      <ToxicResistance>-0.5</ToxicResistance>
+      <ToxicResistance>0.5</ToxicResistance>
       <MarketValue>2500</MarketValue>
       <MoveSpeed>4.9</MoveSpeed>
       <Flammability>1.2</Flammability>

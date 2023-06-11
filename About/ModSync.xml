@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>a117a9d8-c99f-40c8-a075-de83130d4bd4</ID>
   <ModName>Warhammer: Skaven (Continued)</ModName>
-  <Version>1.4.0</Version>
+  <Version>1.4.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
