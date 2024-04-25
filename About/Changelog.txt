@@ -1,5 +1,8 @@
 # Changelog for WarhammerSkaven
 
+1.4.2 - Last update, added end-of-life message
+
+
 1.4.1 - Updated the mayrequire-tags to the continued mod-versions
 
 
